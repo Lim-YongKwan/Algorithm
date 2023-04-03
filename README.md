@@ -1,7 +1,5 @@
 # Algorithm
 
-# Algorithm
-
 [![https://solved.ac/profile/dydrhks7](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/{handle})
 
 <details>
