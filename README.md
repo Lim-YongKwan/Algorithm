@@ -32,5 +32,8 @@
 - BOJ - 작업(2056) - C++
 - Programmers - 튜플 - C++
 
+### Apr 7, 2023
+- BOJ - 전력난(6497) - C++
+
 
 </details>
