@@ -5,7 +5,7 @@
 using namespace std;
 
 vector<pair<int,pair<int,int> > > graph;
-int parent[200001];
+int parent[200010];
 int n,m;
 long long total;
 
@@ -73,7 +73,7 @@ int main(){
         solve();
 
         initParent();
-        
+
         for(int i = 0;i<graph.size();i++){
             graph[i].first = 0;
             graph[i].second.first = 0;
