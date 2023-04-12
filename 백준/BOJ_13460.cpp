@@ -41,6 +41,11 @@ void straight(int x, int y, int dir){
 }
 
 void bfs(){
+
+    //10번 이하로 움직이기.
+    
+
+
     return;
 }
 
