@@ -15,5 +15,8 @@ int main(){
             cin>>board[i][j];
         }
     }
+
+    
+
     return 0;
 }
